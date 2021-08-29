@@ -1,0 +1,16 @@
+
+button{
+  height: 90px;
+  width: 290px;
+  color: white;
+  border: 290px;
+  align-items: center;
+  justify-content: center;
+  background-color: blue;
+  transition-property: background-color;
+  transition: 1s;
+
+}
+button:hover{
+  background-color: green;
+}

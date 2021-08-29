@@ -4,14 +4,14 @@ button{
   width: 290px;
   color: white;
   border: 290px;
-  align-items: center;
-  justify-content: center;
   background-color: blue;
   transition-property: background-color;
   transition: 1s;
-  transition-delay: 2s;
+transition: :background-color 3s ease-in-out 1s;
 
 }
 button:hover{
   background-color: green;
+  color: black;
+  width: 500px;
 }

@@ -7,11 +7,12 @@ button{
   background-color: blue;
   transition-property: background-color;
   transition: 1s;
-transition: :background-color 3s ease-in-out 1s;
-
+//transition: :background-color 3s ease-in-out 1s,
+//color 2s ease 4s border-radius 4s ease-out 6s;
+// transition: all 3s ease-in 2s;
 }
 button:hover{
   background-color: green;
   color: black;
-  width: 500px;
+  border-radius: 25px 0 25px 0;
 }

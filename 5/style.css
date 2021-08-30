@@ -11,7 +11,7 @@ img{
   transition: transform 2s;
 }
 img:hover{
-  transform: translate(-500px,200px);
+  transform: translate(-50px,20px);
 }
 body{
   width: 100%;

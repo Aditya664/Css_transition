@@ -11,5 +11,5 @@ img{
   transition: transform 2s;
 }
 img:hover{
-  transform: translateX(-500px);
+  transform: translate(-500px,200px);
 }

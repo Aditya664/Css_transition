@@ -20,21 +20,3 @@ img{
 .three:hover{
   transform: skew(30deg);
 }
-
-
-
-body,html{
-height: 100%;
-width: 100%;
-}
-html{
-
-  display: flex;
- margin: auto;
-}
-body{
-  display: flex;
-  align-items: center;
-  margin: auto;
-   vertical-align: middle;
-}

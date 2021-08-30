@@ -20,18 +20,3 @@ img{
 .three:hover{
   transform: rotate(1turn);
 }
-
-body,html{
-height: 100%;
-}
-html{
-
-  display: flex;
- margin: auto;
-}
-body{
-  display: flex;
-  align-items: center;
-  margin: auto;
-   vertical-align: middle;
-}

@@ -6,20 +6,16 @@
 img{
   width:300px;
   display: flex;
-  margin: 20px;
+  margin: auto;
+  margin-left: 80px;
   margin-top: 130px;
   transition: transform 2s;
   border-radius: 5px;
 }
 .one:hover{
-  transform: rotate(90deg);
+  transform: skewX(30deg);
 }
-.two:hover{
-  transform: rotate(-90deg);
-}
-.three:hover{
-  transform: rotate(1turn);
-}
+
 
 body,html{
 height: 100%;

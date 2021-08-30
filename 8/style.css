@@ -11,17 +11,6 @@ img{
   transition: transform 2s;
   border-radius: 5px;
 }
-.one:hover{
-  transform: skewX(30deg);
-}
-.two:hover{
-  transform: skewX(-30deg);
-}
-.three:hover{
-  transform: skew(30deg);
-}
-
-
 
 body,html{
 height: 100%;

@@ -1,4 +1,17 @@
 .container{
   border: 5px solid #FFFF00;
 text-align: center;
+padding: 50px;
+}
+body,html{
+height: 100%;
+}
+html{
+
+  display: table;
+ margin: auto;
+}
+body{
+  display: table-cell;
+   vertical-align: middle;
 }

@@ -13,6 +13,12 @@ html{
   display: table;
  margin: auto;
 }
+h3{
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  
+}
 body{
   background-color: blue;
   display: table-cell;

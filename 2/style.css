@@ -40,3 +40,15 @@
 .move:hover{
   transform: translate(900px, 0 );
 }
+body,html{
+height: 100%;
+}
+html{
+
+  display: table;
+ margin: auto;
+}
+body{
+  display: table-cell;
+   vertical-align: middle;
+}

@@ -16,3 +16,15 @@ button:hover{
   color: black;
   border-radius: 25px 0 25px 0;
 }
+body,html{
+height: 100%;
+}
+html{
+
+  display: table;
+ margin: auto;
+}
+body{
+  display: table-cell;
+   vertical-align: middle;
+}

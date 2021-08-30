@@ -1,5 +1,5 @@
 .container{
-  width: 100%;
+  width: a;
 
 }
 .move{
@@ -15,7 +15,7 @@
   border-radius: .5em;
   font-size: 20px;
   transition-property: translate();
-  transition-duration: 3s;
+  transition-duration: 1s;
 }
 #ease{
   transition-timing-function: ease;
@@ -38,11 +38,10 @@
 
 }
 .move:hover{
-  transform: translate(900px, 0 );
+  transform: translate(90px, 0 );
 }
 body,html{
 height: 100%;
-width: 100%
 }
 html{
 

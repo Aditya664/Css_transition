@@ -1,9 +1,9 @@
 .container{
-  width: a;
+  width: 100px;
 
 }
 .move{
-  margin: 2em;
+  margin: 2rem;
   width: 150px;
   height: 50px;
   padding: 10px 15px;

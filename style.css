@@ -1,7 +1,9 @@
 .container{
   border: 5px solid #FFFF00;
 text-align: center;
-padding: 50px;
+padding: 70px;
+border-radius: 5px;
+
 }
 body,html{
 height: 100%;
@@ -12,6 +14,7 @@ html{
  margin: auto;
 }
 body{
+  background-color: blue;
   display: table-cell;
    vertical-align: middle;
 }

@@ -7,9 +7,17 @@ img{
   width:300px;
   display: block;
   margin: auto;
-  margin-top: 200px;
+  margin-top: 20px;
   transition: transform 2s;
+  border: 5px;
+  box-shadow: 5px;
 }
-img:hover{
-  transform: translate(-500px,200px);
+.one:hover{
+  transform: scale(1.5,2);
+}
+.two:hover{
+  transform: scaleX(1.5);
+}
+.three:hover{
+  transform: scaleY(1.5);
 }

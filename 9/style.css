@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+img{
+  width:300px;
+  display: flex;
+  margin: 50px;
+  margin-top: 130px;
+  transition: transform 2s;
+  border-radius: 5px;
+}
+.one:hover{
+  transform: rotateZ(30deg);
+}
+.two:hover{
+  transform: rotateX(60deg);
+}
+.three:hover{
+  transform: rotateY(60deg);
+}

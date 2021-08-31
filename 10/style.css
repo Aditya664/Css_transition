@@ -1,6 +1,6 @@
 body{
 height: 100vh;
-display: inline-flex;
+display: flex;
 align-items: center;
 justify-content: center;
 }
@@ -30,21 +30,5 @@ a{
   transition: transform 1s;
 }
 .one:hover::before{
-  transform: rotate(0deg);
-}
-.two::before{
-  content: '';
-  position: absolute;
-  left:0;
-  top: 0;
-  background-color: #fff200;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  transform-origin: bottom left;
-  transform: rotate(90deg);
-  transition: transform 1s;
-}
-.two:hover::before{
   transform: rotate(0deg);
 }

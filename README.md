@@ -10,7 +10,7 @@
     An Awesome Repo for learn css transition and Projects!
     <br/>
     <br/>
-    <a href="https://github.com/Aditya664/Css_transition">View Demo</a>
+    <a href="http://aditya-deshmukh.me/Css_transition/">View Demo</a>
     .
     <a href="https://github.com/Aditya664/Css_transition/issues">Report Bug</a>
     .
@@ -18,7 +18,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Aditya664/Css_transition/total) ![Contributors](https://img.shields.io/github/contributors/Aditya664/Css_transition?color=dark-green) ![Issues](https://img.shields.io/github/issues/Aditya664/Css_transition) ![License](https://img.shields.io/github/license/Aditya664/Css_transition) 
+![Downloads](https://img.shields.io/github/downloads/Aditya664/Css_transition/total) ![Contributors](https://img.shields.io/github/contributors/Aditya664/Css_transition?color=dark-green) ![Issues](https://img.shields.io/github/issues/Aditya664/Css_transition) 
 
 See the [open issues](https://github.com/Aditya664/Css_transition/issues) for a list of proposed features (and known issues).
 
@@ -31,10 +31,6 @@ See the [open issues](https://github.com/Aditya664/Css_transition/issues) for a 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Aditya664/Css_transition/blob/main/LICENSE.md) for more information.
-
 ## Authors
 
-* **Aditya Deshmukh** - *Comp Sci Student* - [Aditya Deshmukh](https://github.com/Aditya664/) - **
+* **Aditya Deshmukh** - *Comp Sci Student* - [Aditya Deshmukh](https://github.com/Aditya664/)
